@@ -28,7 +28,7 @@ Szkolenie Indywidualne tester manualny 07.06.2022
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR vod.tvp.pl
-* [Mindmap](https://drive.google.com/file/d/1iMveU8bqq3bSR5BUTG-4jxPTycT54GyP/view?usp=sharing)
+* [Mindmap](https://drive.google.com/file/d/13eN2Bc8ZbCU4rtKxlRAiNZMlKVTB_1Yi/view?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/13THqTaD79JZVx_Ha2E3A_pZ8pPh5nNFF/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR vod.tvp.pl
