@@ -29,7 +29,7 @@ Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-## MY TEST CASE EXAMPLES
+# MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR vod.tvp.pl
 * [Mindmap](https://drive.google.com/file/d/13eN2Bc8ZbCU4rtKxlRAiNZMlKVTB_1Yi/view?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/13THqTaD79JZVx_Ha2E3A_pZ8pPh5nNFF/view?usp=sharing)
