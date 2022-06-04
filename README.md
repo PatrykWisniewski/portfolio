@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-My name is Patryk Wisniewski, I interested in photography and technology. I willingly look for new websites or apps, and for those, which can help me in my work as a photographer. I finished two kind of studies ("National Security" and "Criminology"). Currently I modified my carieer path and I became a Software Tester. Some time ago I started to do things which are related with testing, I will share some of it on this site. 
+My name is Patryk Wisniewski. I am interested in photography and technology. I willingly look for new websites or apps, and for those, which can help me in my work as a photographer. I finished two kind of studies ("National Security" and "Criminology"). Currently I modified my carieer path and I became a Software Tester. Some time ago I started to do things which are related with testing, I will share some of it on this site. 
 ## TOOLS
 * Jira
 * TestLink
