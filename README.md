@@ -18,10 +18,13 @@ Szkolenie Indywidualne tester manualny 07.06.2022
 * Praktyczny Kurs Testowania Oprogramowania - Rafał Podraza (udemy.com)
 * uTest Academy - Applause
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+## BOOKS
+* Pasja Testowania - Krzysztof Jadczyk
+* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
+* Praktyczny kurs SQL - Danuta Mendrala, Marcin Szeliga
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
-* testuj.pl
 * remigiuszbednarczyk.pl
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
