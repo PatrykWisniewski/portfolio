@@ -38,6 +38,6 @@ Szkolenie Indywidualne tester manualny 07.06.2022
 * [Okno wyboru subskrypcji zostaje zasłonięte po przewinięciu strony w dół](https://drive.google.com/file/d/1PzO_hSWHX9kZCsxHB1Ef1nrkzCFrZWYz/view?usp=sharing)
 
 ## MY REPORT
-## MY REPORT FOR vod.tvp.pl
-* [Report PDF]((https://drive.google.com/file/d/1_HNoSj9Noim272eqx87nghDNiIl85ohB/view?usp=sharing)
-* [Report Excell](https://drive.google.com/file/d/1LLq6S53GiysF2VoRjNBYu8HPGnCHPU5L/edit?usp=sharing&ouid=115375432618485543632&rtpof=true&sd=true)
+## MY REPORT FOR 
+* [Report PDF](https://drive.google.com/file/d/1_HNoSj9Noim272eqx87nghDNiIl85ohB/view?usp=sharing)
+* [Report Excell](https://docs.google.com/spreadsheets/d/1LLq6S53GiysF2VoRjNBYu8HPGnCHPU5L/edit?usp=sharing&ouid=115375432618485543632&rtpof=true&sd=true)
