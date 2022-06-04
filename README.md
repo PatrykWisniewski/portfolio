@@ -13,7 +13,7 @@ My name is Patryk Wiśniewski, I work as a photographer. I finished two kind of 
 * SQL
 * ISTQB
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 07.06.2022
+Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec
 ## COURSES
 * Praktyczny Kurs Testowania Oprogramowania - Rafał Podraza (udemy.com)
 * uTest Academy - Applause
