@@ -32,7 +32,7 @@ Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec
 ## MY TEST CASE EXAMPLES
 ### MY TEST CASE EXAMPLES FOR vod.tvp.pl
 * [Mindmap](https://drive.google.com/file/d/13eN2Bc8ZbCU4rtKxlRAiNZMlKVTB_1Yi/view?usp=sharing)
-* [Test Cases](https://drive.google.com/file/d/13THqTaD79JZVx_Ha2E3A_pZ8pPh5nNFF/view?usp=sharing)
+* [Test Cases](https://drive.google.com/file/d/1vknbmAU8P1c5eWkkj40yuqGfTs6jZruv/view?usp=sharing)
 ## MY BUGS
 ### MY BUGS FOR vod.tvp.pl
 * [Filmy (obrazki podglądowe) wyświetlają się nieprawidłowo](https://drive.google.com/file/d/1hH_QHvCZSHVUdMBp46AJv9sMHkubIgoA/view?usp=sharing)
