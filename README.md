@@ -16,7 +16,7 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec
 ## COURSES
 * Praktyczny Kurs Testowania Oprogramowania - Rafał Podraza (udemy.com)
-* uTest Academy - Applause
+* uTest Academy (and participating in projects) - Applause
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## BOOKS
 * Pasja Testowania - Krzysztof Jadczyk
