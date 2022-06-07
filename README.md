@@ -8,10 +8,12 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * ShareX, PicPick
 ## TECH SKIILS
 * Software testing
-* Creating test cases
+* Creating and executing test scenarios and test cases
+* Creating test reports
 * Reporting bugs
 * SQL
 * ISTQB
+* API (basic theory)
 ## CERTIFICATES
 Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec
 ## COURSES
