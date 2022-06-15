@@ -4,8 +4,10 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 ## TOOLS
 * Jira
 * TestLink
-* GitHub
-* ShareX, PicPick
+* Postman
+* DevTools
+* ShareX 
+* PicPick
 ## TECH SKIILS
 * Software testing
 * Creating and executing test scenarios and test cases
@@ -13,9 +15,9 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * Reporting bugs
 * SQL
 * ISTQB
-* API (basic theory)
+* API 
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec
+[Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec](https://drive.google.com/file/d/15iLwRo4Qci4StkwKfFROxxfdGAxTzILF/view?usp=sharing)
 ## COURSES
 * Praktyczny Kurs Testowania Oprogramowania - Rafał Podraza (udemy.com)
 * uTest Academy (and participating in projects) - Applause
@@ -24,6 +26,8 @@ Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec
 * Pasja Testowania - Krzysztof Jadczyk
 * Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 * Praktyczny kurs SQL - Danuta Mendrala, Marcin Szeliga
+## WEBINARS
+* Testowanie REST API dla początkujących - Bartosz Kita
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
