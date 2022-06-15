@@ -36,18 +36,20 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
-### MY TEST CASE EXAMPLES FOR vod.tvp.pl
+### MY TEST CASE EXAMPLES FOR vod.tvp.pl (PL)
 * [Mindmap](https://drive.google.com/file/d/13eN2Bc8ZbCU4rtKxlRAiNZMlKVTB_1Yi/view?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/1vknbmAU8P1c5eWkkj40yuqGfTs6jZruv/view?usp=sharing)
-## MY BUGS
-### MY BUGS FOR vod.tvp.pl
+## MY BUG REPORTS
+### MY BUG REPORTS FOR vod.tvp.pl (PL)
 * [Filmy (obrazki podglądowe) wyświetlają się nieprawidłowo](https://drive.google.com/file/d/1hH_QHvCZSHVUdMBp46AJv9sMHkubIgoA/view?usp=sharing)
 * [Podany czas wyświetlania reklamy nie jest zgodny z czasem rzeczywistym](https://drive.google.com/file/d/1pi1kRAQGzqH5TF1mLJfVIwisR_mqTEFh/view?usp=sharing)
 * [Kanał "TVP Polonia" nie odtwarza się w trybie "Na żywo"](https://drive.google.com/file/d/1uE814QDY-ZgG_2R9lB1XeAd2dnG2iENA/view?usp=sharing)
 * [Brak przycisku "Oglądaj"](https://drive.google.com/file/d/1xXQFrgPHE4XBVWhAlaXbX2Mf0eV3JWAd/view?usp=sharing)
 * [Okno wyboru subskrypcji zostaje zasłonięte po przewinięciu strony w dół](https://drive.google.com/file/d/1PzO_hSWHX9kZCsxHB1Ef1nrkzCFrZWYz/view?usp=sharing)
+### MY BUG REPORTS FROM uTest
+* [The "voice teacher" is wrong about the clue for task (learning app for children](https://drive.google.com/file/d/1eeEuJ7tMktGGitbeKKp3gESnr4lPZOZW/view?usp=sharing)
 
 ## MY REPORT
-### MY REPORT FOR vod.tvp.pl
+### MY REPORT FOR vod.tvp.pl (PL)
 * [Report PDF](https://drive.google.com/file/d/1_HNoSj9Noim272eqx87nghDNiIl85ohB/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/1LLq6S53GiysF2VoRjNBYu8HPGnCHPU5L/edit?usp=sharing&ouid=115375432618485543632&rtpof=true&sd=true)
