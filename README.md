@@ -47,7 +47,13 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * [Brak przycisku "Oglądaj"](https://drive.google.com/file/d/1xXQFrgPHE4XBVWhAlaXbX2Mf0eV3JWAd/view?usp=sharing)
 * [Okno wyboru subskrypcji zostaje zasłonięte po przewinięciu strony w dół](https://drive.google.com/file/d/1PzO_hSWHX9kZCsxHB1Ef1nrkzCFrZWYz/view?usp=sharing)
 ### MY BUG REPORTS FROM uTest
-* [The "voice teacher" is wrong about the clue for task (learning app for children](https://drive.google.com/file/d/1eeEuJ7tMktGGitbeKKp3gESnr4lPZOZW/view?usp=sharing)
+* [The "voice teacher" is wrong about the clue for task (learning app for children)](https://drive.google.com/file/d/1eeEuJ7tMktGGitbeKKp3gESnr4lPZOZW/view?usp=sharing)
+* [The filtering page closes after tapping the "reset" button (sport app)](https://drive.google.com/file/d/1P-gizhGEdI96-wxMmgmKCjJFU9ssb8zZ/view?usp=sharing)
+* [Profile Page becomes unresponsive after canceling the password change (website shop)](https://drive.google.com/file/d/1XbUHkObtPiB4SFO6u3ICsBKodtc5kRke/view?usp=sharing)
+* [Selected search option is displayed incorrectly (website shop)](https://drive.google.com/file/d/1bMJoNiMmvvGQ0Zwy72jPL5Xh454_wX02/view?usp=sharing)
+* [Unable to pay via PayPal (website shop)](https://drive.google.com/file/d/1Zbog0LYNMKp2CqkF0qtBbJQxGQq5rthr/view?usp=sharing)
+* ["Latest" section not showing in "Best Cars" tab (world news website)](https://drive.google.com/file/d/1TZYj7dcKb9azRWQKE3fn8ACfCY7LqbqH/view?usp=sharing)
+* [Categories vibrate when scrolling between them (video editor app)](https://drive.google.com/file/d/1KIOzi3yKxLfWJHtc9N46XmtrcyFseQ57/view?usp=sharing)
 
 ## MY REPORT
 ### MY REPORT FOR vod.tvp.pl (PL)
