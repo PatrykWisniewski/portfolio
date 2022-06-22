@@ -17,15 +17,15 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * ISTQB
 * API 
 ## CERTIFICATES
-[Szkolenie Indywidualne tester manualny 07.06.2022 - Waldemar Szafraniec](https://drive.google.com/file/d/15iLwRo4Qci4StkwKfFROxxfdGAxTzILF/view?usp=sharing)
+[Individual course - Manual Tester by Waldemar Szafraniec - 06.06.2022](https://drive.google.com/file/d/15iLwRo4Qci4StkwKfFROxxfdGAxTzILF/view?usp=sharing)
 ## COURSES
-* Praktyczny Kurs Testowania Oprogramowania - Rafał Podraza (udemy.com)
+* Course on Udemy.com - Practical Course of Software Testing - Rafał Podraza (udemy.com)
 * uTest Academy (and participating in projects) - Applause
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Individual course - Manual Tester by Waldemar Szafraniec - 06.06.2022
 ## BOOKS
-* Pasja Testowania - Krzysztof Jadczyk
-* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
-* Praktyczny kurs SQL - Danuta Mendrala, Marcin Szeliga
+* Passion for Testing - Krzysztof Jadczyk
+* Certified ISTBQ Tester. Foundation Level - Adam Roman, Lucjan Stapp
+* Practical SQL Course - Danuta Mendrala, Marcin Szeliga
 ## WEBINARS
 * Testowanie REST API dla początkujących - Bartosz Kita
 ## RECOMENDED BLOGS
