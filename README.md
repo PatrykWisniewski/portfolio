@@ -27,7 +27,7 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * Certified ISTBQ Tester. Foundation Level - Adam Roman, Lucjan Stapp
 * Practical SQL Course - Danuta Mendrala, Marcin Szeliga
 ## WEBINARS
-* Testowanie REST API dla początkujących - Bartosz Kita
+* REST API Testing for Beginners - Bartosz Kita
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
