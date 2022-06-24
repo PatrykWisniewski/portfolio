@@ -17,8 +17,8 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * ISTQB
 * API 
 ## CERTIFICATES
-*[Certificate ISTQB Foundation Level](https://drive.google.com/file/d/1FAbT74aPzfJ0ukeZ08hwZaRUnC4s3Q9-/view?usp=sharing)
-*[Individual course - Manual Tester by Waldemar Szafraniec - 06.06.2022](https://drive.google.com/file/d/15iLwRo4Qci4StkwKfFROxxfdGAxTzILF/view?usp=sharing)
+* [Certificate ISTQB® Foundation Level](https://drive.google.com/file/d/1FAbT74aPzfJ0ukeZ08hwZaRUnC4s3Q9-/view?usp=sharing)
+* [Individual course - Manual Tester by Waldemar Szafraniec - 06.06.2022](https://drive.google.com/file/d/15iLwRo4Qci4StkwKfFROxxfdGAxTzILF/view?usp=sharing)
 ## COURSES
 * Course on Udemy.com - Practical Course of Software Testing - Rafał Podraza (udemy.com)
 * uTest Academy (and participating in projects) - Applause
