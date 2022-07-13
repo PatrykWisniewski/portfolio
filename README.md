@@ -55,6 +55,7 @@ My name is Patryk Wisniewski. I am interested in photography and technology. I w
 * [Unable to pay via PayPal (website shop)](https://drive.google.com/file/d/1Zbog0LYNMKp2CqkF0qtBbJQxGQq5rthr/view?usp=sharing)
 * ["Latest" section not showing in "Best Cars" tab (world news website)](https://drive.google.com/file/d/1TZYj7dcKb9azRWQKE3fn8ACfCY7LqbqH/view?usp=sharing)
 * [Categories vibrate when scrolling between them (video editor app)](https://drive.google.com/file/d/1KIOzi3yKxLfWJHtc9N46XmtrcyFseQ57/view?usp=sharing)
+* [User is asked for verification code for created account when tried to log in](https://drive.google.com/file/d/1It7JB9HvEqkOWHfobzOlkwxzuWeZwW0U/view?usp=sharing)
 
 ## MY REPORT
 ### MY REPORT FOR vod.tvp.pl (PL)
